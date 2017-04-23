@@ -9,22 +9,31 @@
   // require_once('nav.php');
 ?> 
 
-    <!-- Page Header -->
-    <header class="intro-header" style="background-image: url('img/header-bg.jpg')">
-
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="site-heading">
-                        <h1>Wendy Huntsman</h1>
-                        <hr class="small">
-                        <span class="subheading">Developer | Biologist | Analyst | Advocate</span>
-                    </div>
-                </div>
+  <!-- Page Header -->
+   <header class="intro-header" style="background-image: url('img/header-bg.jpg')">
+      <div class="row">
+         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="site-heading">
+               <h1>Wendy Huntsman</h1>
+               <hr class="small">
+               <span class="subheading">Developer | Biologist | Analyst | Advocate</span>
             </div>
-   
-    </header>
+         </div>
+      </div>
+  </header>
 
-    <!-- Main Content -->
+<!-- Main Content -->
+
+    <!--Self summary and photo -->
+    <section class="about-me">
+         <p>
+            <img src="https://www.wendyhuntsman.com/img/self-1.jpg" alt="Photo of Me">
+         </p>
+    </section>
+
+
+
+    <!-- First post preview -->
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
