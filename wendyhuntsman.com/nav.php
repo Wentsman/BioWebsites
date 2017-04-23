@@ -1,7 +1,6 @@
 <body>
   <div id="header">
     <div class="text">
-      <h1>Header 1</h1>
     </div>
   </div>
   <!-- nav bar -->
